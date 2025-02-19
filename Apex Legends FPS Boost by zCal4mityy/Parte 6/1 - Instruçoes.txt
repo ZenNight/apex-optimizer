@@ -1,0 +1,7 @@
+Adicione esses arquivos em seus devidos locais
+
+!! ALTERE O "SEUUSUARIO" PARA O SEU DEVIDO NOME NA PASTA "USERS" !!
+
+Exemplo:
+
+C:\Users\"SEUUSUARIO"\Saved Games\Respawn\Apex

@@ -1,0 +1,3 @@
+-novid -high -full -dev -preload -preload +mat_compressedtextures 1 +cl_ragdoll_collide 0 -novid -dxlevel95 -tickrate 128 +mat_queue_mode 2 +cl_forcepreload 1 -threads X
+
+Cole este comando na Steam ou na EA App
