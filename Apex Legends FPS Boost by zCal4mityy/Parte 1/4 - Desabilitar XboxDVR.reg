@@ -1,4 +1,4 @@
-Windows Registry Editor Version 5.00          --- Regedit by Techiesavi
+Windows Registry Editor Version 5.00          
 
 [HKEY_CURRENT_USER\System\GameConfigStore]
 "GameDVR_Enabled"=dword:00000000
