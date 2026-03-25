@@ -1,4 +1,4 @@
-Windows Registry Editor Version 5.00                  --- Regedit by Techie savi                                                                                                                                                              
+Windows Registry Editor Version 5.00                                                                                                                                                                  
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MapsBroker]
 "Start"=dword:00000004
