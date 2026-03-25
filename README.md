@@ -8,7 +8,7 @@ Conjunto de Ferramentas simples e direta para aplicar configurações otimizadas
 
 ## 🎯 Objetivo
 
-Este projeto foi criado para quem tem sistemas com desenpenho limitado ou sofrem com algum tipo de Input Lag, vice versa.
+Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem com algum tipo de Input Lag, vice versa.
 
 ---
 
