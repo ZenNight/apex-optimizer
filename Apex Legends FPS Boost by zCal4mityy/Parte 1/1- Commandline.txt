@@ -1,3 +1,4 @@
--novid -high -full -dev -preload -preload +mat_compressedtextures 1 +cl_ragdoll_collide 0 -novid -dxlevel95 -tickrate 128 +mat_queue_mode 2 +cl_forcepreload 1 -threads X
+-high -preload -fullscreen -novid -dev +fps_max 180 +lobby_max_fps 180
 
-Cole este comando na Steam ou na EA App
+OBS: Altere apenas o "+fps_max 180" para o valor que você Queir.
+!!! Cole este comando na Commandline da Steam ou EA App !!!
