@@ -2,7 +2,7 @@
 
 **Otimize seu PC e maximize o FPS no Apex Legends**
 
-Conjunto de Ferramentas simples e direta para aplicar configurações otimizadas no Windows e no Apex Legends.
+Conjunto de Ferramentas simples para aplicar configurações otimizadas no Windows e no Apex Legends.
 
 ---
 
@@ -43,21 +43,8 @@ Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem
 
 - As otimizações modificam configurações do sistema  
 - Recomenda-se criar um **ponto de restauração** antes de usar  
-- Use por sua conta e risco  
-
----
-
-## 🧠 Filosofia do projeto
-
-Aqui não tem mágica.
-
-Performance vem de:
-
-- remover excesso  
-- priorizar recursos  
-- respeitar como o sistema foi feito para funcionar  
-
-É exatamente isso que este projeto faz.
+- Use por sua conta e risco
+- Cuidado selecionando o Buffer Errado (Otimização de Ram)
 
 ---
 
@@ -65,7 +52,9 @@ Performance vem de:
 
 Contribuições são bem-vindas.
 
-Se você tem melhorias reais (**não placebo**), abra um **Pull Request**.
+Se você tem melhorias reais me chame no Discord para me mostrar :) 
+
+calambasxd
 
 ---
 
