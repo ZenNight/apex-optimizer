@@ -1,4 +1,4 @@
-# 🚀 Apex Optimizer
+# Apex Legends Optimizer
 
 **Otimize seu PC e maximize o FPS no Apex Legends**
 
@@ -6,13 +6,13 @@ Conjunto de Ferramentas simples para aplicar configurações otimizadas no Windo
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem com algum tipo de Input Lag, vice versa.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - 🔧 Ajustes no Windows para reduzir uso desnecessário de recursos  
 - 🎮 Otimizações específicas para Apex Legends  
@@ -22,7 +22,7 @@ Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe os arquivos do repositório  
 2. Execute como **Administrador**  
@@ -31,7 +31,7 @@ Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Windows 10 ou 11  
 - Permissão de Administrador  
@@ -39,7 +39,7 @@ Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem
 
 ---
 
-## ⚠️ Aviso importante
+## Aviso importante
 
 - As otimizações modificam configurações do sistema  
 - Recomenda-se criar um **ponto de restauração** antes de usar  
@@ -48,7 +48,7 @@ Este projeto foi criado para quem tem sistemas com desempenho limitado ou sofrem
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 
 Contribuições são bem-vindas.
 
@@ -58,12 +58,12 @@ calambasxd
 
 ---
 
-## 👤 Autor
+## Autor
 
 Desenvolvido por **ZenNight (zCal4mityy)**
 
 ---
 
-## ⭐ Apoie o projeto
+## Apoie o projeto
 
 Se este projeto te ajudou, deixe uma **estrela ⭐ no repositório**.
